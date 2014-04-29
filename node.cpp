@@ -2,6 +2,8 @@
 
 int node::node_id = 0;		// Aufgabe 1.2
 
+// Man könnte das mit dem Konstruktor sauberer lösen
+
 node::node(const string& name ) : name(name), depth(0){
 	node_id++;
 	if( name == "" ){
