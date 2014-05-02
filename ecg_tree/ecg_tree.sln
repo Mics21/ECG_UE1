@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecg_tree", "ecg_tree\ecg_tree.vcxproj", "{0101E501-C62C-4B0E-A0B7-8DABEB0A097B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tree", "tree\tree.vcxproj", "{C5A15571-90A7-4301-B74F-DCB392165931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0101E501-C62C-4B0E-A0B7-8DABEB0A097B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0101E501-C62C-4B0E-A0B7-8DABEB0A097B}.Debug|Win32.Build.0 = Debug|Win32
+		{0101E501-C62C-4B0E-A0B7-8DABEB0A097B}.Release|Win32.ActiveCfg = Release|Win32
+		{0101E501-C62C-4B0E-A0B7-8DABEB0A097B}.Release|Win32.Build.0 = Release|Win32
+		{C5A15571-90A7-4301-B74F-DCB392165931}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5A15571-90A7-4301-B74F-DCB392165931}.Debug|Win32.Build.0 = Debug|Win32
+		{C5A15571-90A7-4301-B74F-DCB392165931}.Release|Win32.ActiveCfg = Release|Win32
+		{C5A15571-90A7-4301-B74F-DCB392165931}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
